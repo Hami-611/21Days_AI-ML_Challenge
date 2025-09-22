@@ -36,6 +36,4 @@ Each project includes:
 - All projects are part of the official **GeeksforGeeks 21 Days Crash Course**.  
 - Feedback and improvements are welcome!  
 
----
 
-✍️ *Created & maintained by [Hamika R]*  
