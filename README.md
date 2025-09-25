@@ -21,7 +21,8 @@ Each project includes:
 | 7   | Preventing Customer Churn with Feature Transformation  | [Colab](https://colab.research.google.com/drive/1ieoUVlURX7m1TqXO6OO9T7Rq5k4JB1nn?usp=sharing) |
 | 8   | Vision AI Fundamentals: Building a Digit Recognizer from Scratch  | [Colab](https://colab.research.google.com/drive/1t-dIbS0zvj8IckDH07FxA82fBBbZ-GQE?usp=sharing) |
 | 9   | Advanced Vision AI: Fast-Tracking Image Classification with Transfer Learning  | [Colab](https://colab.research.google.com/drive/1skxlRMsZGs7ssDyAXt4mhBKKCnMq4bsZ?usp=sharing) |
-| 15   | Talk to Your Data: Building a Natural Language to SQL Generator.  | [Colab](https://colab.research.google.com/drive/1DP9fQnlnU55-MGKxwYt2dlWVD46SF40A?usp=sharing) |
+| 15   | Talk to Your Data: Building a Natural Language to SQL Generator | [Colab](https://colab.research.google.com/drive/1DP9fQnlnU55-MGKxwYt2dlWVD46SF40A?usp=sharing) |
+| 16   | Intelligent Document Automation: Building a Smart OCR Bot  | [Colab](https://colab.research.google.com/drive/1DKBDtKCJzvNIn08OSpS4x0oVSRUMMQJF?usp=sharing) |
 
 
 
