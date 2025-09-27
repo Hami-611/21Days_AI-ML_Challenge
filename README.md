@@ -25,6 +25,7 @@ Each project includes:
 | 11  | The AI Swiss Army Knife: One-Line Solutions with Hugging Face Pipelines | [Colab](https://colab.research.google.com/drive/1Pv_3qQgGTb69AVctBXfg0s8FDfgtmbma?usp=sharing) |
 | 12  | Real-World Computer Vision: Building a Real-Time Object Detector | [Colab](https://colab.research.google.com/drive/15Kfae8YwJ59_rhqxuMpykuaeEzOTQyQP?usp=sharing) |
 | 13  | Next-Gen Forecasting: Applying Deep Learning to Time Series Data | [Colab](https://colab.research.google.com/drive/1yR8DNjPejAK2TeQAsgnC-bD4IRK3mGu3?usp=sharing) |
+| 14  | Build Your Own GPT: Creating a Custom Text Generation Engine | [Colab](https://colab.research.google.com/drive/1Omix5g3BttE_y0Ph999kTBtScwXo8ZM6?usp=sharing) |
 | 15  | Talk to Your Data: Building a Natural Language to SQL Generator | [Colab](https://colab.research.google.com/drive/1DP9fQnlnU55-MGKxwYt2dlWVD46SF40A?usp=sharing) |
 | 16  | Intelligent Document Automation: Building a Smart OCR Bot  | [Colab](https://colab.research.google.com/drive/1DKBDtKCJzvNIn08OSpS4x0oVSRUMMQJF?usp=sharing) |
 
