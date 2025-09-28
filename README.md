@@ -28,6 +28,7 @@ Each project includes:
 | 14  | Build Your Own GPT: Creating a Custom Text Generation Engine | [Colab](https://colab.research.google.com/drive/1Omix5g3BttE_y0Ph999kTBtScwXo8ZM6?usp=sharing) |
 | 15  | Talk to Your Data: Building a Natural Language to SQL Generator | [Colab](https://colab.research.google.com/drive/1DP9fQnlnU55-MGKxwYt2dlWVD46SF40A?usp=sharing) |
 | 16  | Intelligent Document Automation: Building a Smart OCR Bot  | [Colab](https://colab.research.google.com/drive/1DKBDtKCJzvNIn08OSpS4x0oVSRUMMQJF?usp=sharing) |
+| 17  | Build Your Own Intelligent Internet Search Engine  | [Colab](https://github.com/Hami-611/21Days_AI-ML_Challenge/tree/main/Day_17_Build%20Your%20Own%20Intelligent%20Internet%20Search%20Engine) |
 
 
 
