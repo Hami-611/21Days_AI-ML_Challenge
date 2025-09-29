@@ -29,6 +29,7 @@ Each project includes:
 | 15  | Talk to Your Data: Building a Natural Language to SQL Generator | [Colab](https://colab.research.google.com/drive/1DP9fQnlnU55-MGKxwYt2dlWVD46SF40A?usp=sharing) |
 | 16  | Intelligent Document Automation: Building a Smart OCR Bot  | [Colab](https://colab.research.google.com/drive/1DKBDtKCJzvNIn08OSpS4x0oVSRUMMQJF?usp=sharing) |
 | 17  | Build Your Own Intelligent Internet Search Engine  | [Colab](https://github.com/Hami-611/21Days_AI-ML_Challenge/tree/main/Day_17_Build%20Your%20Own%20Intelligent%20Internet%20Search%20Engine) |
+| 18  | Chat_with_Your_Knowledge_Base_Building_a_Powerful_RAG_Chatbot  | [Colab](https://colab.research.google.com/drive/1q_LfF-UU8194S3jC0y80iXEftxdsQ2xN?usp=sharing) |
 | 19  | Autonomous_Market_Analyst_Building_AI_Agents_for_Deep_Research  | [Colab](https://colab.research.google.com/drive/1Zk6p5v_F4a1qNYG_PoTyclDcjya14lrj?usp=sharing) |
 
 
