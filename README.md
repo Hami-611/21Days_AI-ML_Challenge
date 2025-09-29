@@ -31,6 +31,8 @@ Each project includes:
 | 17  | Build Your Own Intelligent Internet Search Engine  | [Colab](https://github.com/Hami-611/21Days_AI-ML_Challenge/tree/main/Day_17_Build%20Your%20Own%20Intelligent%20Internet%20Search%20Engine) |
 | 18  | Chat_with_Your_Knowledge_Base_Building_a_Powerful_RAG_Chatbot  | [Colab](https://colab.research.google.com/drive/1q_LfF-UU8194S3jC0y80iXEftxdsQ2xN?usp=sharing) |
 | 19  | Autonomous_Market_Analyst_Building_AI_Agents_for_Deep_Research  | [Colab](https://colab.research.google.com/drive/1Zk6p5v_F4a1qNYG_PoTyclDcjya14lrj?usp=sharing) |
+| 20  | Web Automation on Autopilot: Building an AI Browser Agent  | [Colab](https://github.com/Hami-611/21Days_AI-ML_Challenge/tree/main/Day_20_Web%20Automation%20on%20Autopilot%20Building%20an%20AI%20Browser%20Agent) |
+| 21  | Building an AI-Powered Newsletter Pipeline on n8n  | [Colab]() |
 
 
 
